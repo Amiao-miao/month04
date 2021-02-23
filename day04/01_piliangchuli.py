@@ -1,0 +1,32 @@
+data={
+"i": "tiger",
+"from": "AUTO",
+"to": "AUTO",
+"smartresult": "dict",
+"client": "fanyideskweb",
+"salt": "16138957894588",
+"sign": "9fcdd4bfb49e0927faa54062896cd1ad",
+"lts": "1613895789458",
+"bv": "93ab8a54b571f3ceac16a13fbb95fb1c",
+"doctype": "json",
+"version": "2.1",
+"keyfrom": "fanyi.web",
+"action": "FY_BY_REALTlME",
+}
+
+headers={
+"Accept": "application/json, text/javascript, */*; q=0.01",
+"Accept-Encoding": "gzip, deflate",
+"Accept-Language": "zh-CN,zh;q=0.9",
+"Cache-Control": "no-cache",
+"Connection": "keep-alive",
+"Content-Length": "239",
+"Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+"Cookie": "OUTFOX_SEARCH_USER_ID=722428891@10.169.0.83; JSESSIONID=aaa9gWl8GncnvfKhURdFx; OUTFOX_SEARCH_USER_ID_NCOO=927962974.4188644; ___rl__test__cookies=1613895789454",
+"Host": "fanyi.youdao.com",
+"Origin": "http://fanyi.youdao.com",
+"Pragma": "no-cache",
+"Referer": "http://fanyi.youdao.com/",
+"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36",
+"X-Requested-With": "XMLHttpRequest",
+}
